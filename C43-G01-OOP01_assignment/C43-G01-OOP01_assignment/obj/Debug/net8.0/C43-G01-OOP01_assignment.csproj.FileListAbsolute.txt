@@ -1,0 +1,14 @@
+C:\Users\omars\OneDrive\Desktop\route\c#RoutAssignments\C43-G01-OOP01\C43-G01-OOP01_assignment\C43-G01-OOP01_assignment\bin\Debug\net8.0\C43-G01-OOP01_assignment.exe
+C:\Users\omars\OneDrive\Desktop\route\c#RoutAssignments\C43-G01-OOP01\C43-G01-OOP01_assignment\C43-G01-OOP01_assignment\bin\Debug\net8.0\C43-G01-OOP01_assignment.deps.json
+C:\Users\omars\OneDrive\Desktop\route\c#RoutAssignments\C43-G01-OOP01\C43-G01-OOP01_assignment\C43-G01-OOP01_assignment\bin\Debug\net8.0\C43-G01-OOP01_assignment.runtimeconfig.json
+C:\Users\omars\OneDrive\Desktop\route\c#RoutAssignments\C43-G01-OOP01\C43-G01-OOP01_assignment\C43-G01-OOP01_assignment\bin\Debug\net8.0\C43-G01-OOP01_assignment.dll
+C:\Users\omars\OneDrive\Desktop\route\c#RoutAssignments\C43-G01-OOP01\C43-G01-OOP01_assignment\C43-G01-OOP01_assignment\bin\Debug\net8.0\C43-G01-OOP01_assignment.pdb
+C:\Users\omars\OneDrive\Desktop\route\c#RoutAssignments\C43-G01-OOP01\C43-G01-OOP01_assignment\C43-G01-OOP01_assignment\obj\Debug\net8.0\C43-G01-OOP01_assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omars\OneDrive\Desktop\route\c#RoutAssignments\C43-G01-OOP01\C43-G01-OOP01_assignment\C43-G01-OOP01_assignment\obj\Debug\net8.0\C43-G01-OOP01_assignment.AssemblyInfoInputs.cache
+C:\Users\omars\OneDrive\Desktop\route\c#RoutAssignments\C43-G01-OOP01\C43-G01-OOP01_assignment\C43-G01-OOP01_assignment\obj\Debug\net8.0\C43-G01-OOP01_assignment.AssemblyInfo.cs
+C:\Users\omars\OneDrive\Desktop\route\c#RoutAssignments\C43-G01-OOP01\C43-G01-OOP01_assignment\C43-G01-OOP01_assignment\obj\Debug\net8.0\C43-G01-OOP01_assignment.csproj.CoreCompileInputs.cache
+C:\Users\omars\OneDrive\Desktop\route\c#RoutAssignments\C43-G01-OOP01\C43-G01-OOP01_assignment\C43-G01-OOP01_assignment\obj\Debug\net8.0\C43-G01-OOP01_assignment.dll
+C:\Users\omars\OneDrive\Desktop\route\c#RoutAssignments\C43-G01-OOP01\C43-G01-OOP01_assignment\C43-G01-OOP01_assignment\obj\Debug\net8.0\refint\C43-G01-OOP01_assignment.dll
+C:\Users\omars\OneDrive\Desktop\route\c#RoutAssignments\C43-G01-OOP01\C43-G01-OOP01_assignment\C43-G01-OOP01_assignment\obj\Debug\net8.0\C43-G01-OOP01_assignment.pdb
+C:\Users\omars\OneDrive\Desktop\route\c#RoutAssignments\C43-G01-OOP01\C43-G01-OOP01_assignment\C43-G01-OOP01_assignment\obj\Debug\net8.0\C43-G01-OOP01_assignment.genruntimeconfig.cache
+C:\Users\omars\OneDrive\Desktop\route\c#RoutAssignments\C43-G01-OOP01\C43-G01-OOP01_assignment\C43-G01-OOP01_assignment\obj\Debug\net8.0\ref\C43-G01-OOP01_assignment.dll
